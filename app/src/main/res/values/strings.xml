@@ -9,5 +9,19 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="tv_name">Mei Rusfandi</string>
+    <string name="tv_education">Pendidikan</string>
+    <string name="tv_bachelor_degree">Universitas Lampung - Ilmu Komputer 2014-2019</string>
+    <string name="tv_high_school">SMA N 1 Gadingrejo - IPA 2011-2014</string>
+    <string name="tv_skill">Skills</string>
+    <string name="tv_skill_mobile">Mobile Developer (Java/Kotlin/Flutter)</string>
+    <string name="tv_skill_web">Web Developer (Codeigniter/PHP)</string>
+    <string name="tv_skill_backend">Backend Developer (Codeigniter/PHP/Golang)</string>
+    <string name="tv_experience">Pengalaman Kerja</string>
+    <string name="tv_binar_academy">PT Lentera Benderang Bangsa (Binar Academy) - Project Livin by Mandiri at Bank Mandiri sebagai Android Developer 11 Oktober 2021 - 11 Oktober 2022</string>
+    <string name="tv_dcktrp">Dinas Cipta Karya, Tata Ruang dan Pertanahan Provinsi DKI Jakarta sebagai Mobile Apps Developer Januari - Desember 2021</string>
+    <string name="tv_klik">PT Klik Digital Sinergi sebagai Frontend Developer Februari 2020 - Oktober 2021</string>
+    <string name="tv_107">PT 107 sebagai Programmer Maret 2019 - Desember 2019</string>
+    <string name="tv_social_media">Social Media :</string>
 
 </resources>

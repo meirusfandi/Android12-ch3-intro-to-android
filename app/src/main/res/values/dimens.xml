@@ -1,3 +1,12 @@
 <resources>
         <dimen name="fab_margin">16dp</dimen>
-    </resources>
+    <dimen name="content_padding">16dp</dimen>
+    <dimen name="content_margin">8dp</dimen>
+    <dimen name="content_social_media_size">60dp</dimen>
+    <dimen name="zero_dp">0dp</dimen>
+    <dimen name="profile_image_size">200dp</dimen>
+    <dimen name="tv_experience_size">14sp</dimen>
+    <dimen name="tv_name_size">24sp</dimen>
+    <dimen name="tv_title_size">16sp</dimen>
+    <dimen name="one_dp">1dp</dimen>
+</resources>
