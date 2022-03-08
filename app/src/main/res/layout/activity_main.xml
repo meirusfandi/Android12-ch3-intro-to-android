@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    tools:context=".MainActivity">
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:text="Mei Rusfandi"
+            android:textAlignment="center"
+            android:textSize="24sp"
+            android:textStyle="bold"/>
+
+        <com.google.android.material.imageview.ShapeableImageView
+            android:id="@+id/profile_image"
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:layout_gravity="center"
+            android:src="@drawable/pas_photo"/>
+
+        <com.google.android.material.textview.MaterialTextView
+            android:text="Pendidikan"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:background="#F2F2F2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingHorizontal="16dp"
+            android:paddingVertical="8dp"/>
+
+        <com.google.android.material.textview.MaterialTextView
+            android:text="Universitas Lampung - Ilmu Komputer 2014-2019"
+            android:textSize="14sp"
+            android:layout_marginHorizontal="16dp"
+            android:layout_marginVertical="8dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <View
+            android:background="#f5f5f5"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"/>
+
+        <com.google.android.material.textview.MaterialTextView
+            android:text="SMA N 1 Gadingrejo - IPA 2011-2014"
+            android:textSize="14sp"
+            android:layout_marginHorizontal="16dp"
+            android:layout_marginVertical="8dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <com.google.android.material.textview.MaterialTextView
+            android:text="Skills"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingHorizontal="16dp"
+            android:paddingVertical="8dp"
+            android:background="#F2F2F2"
+            android:textSize="16sp"
+            android:textStyle="bold"/>
+
+        <com.google.android.material.textview.MaterialTextView
+            android:text="Mobile Developer (Java/Kotlin/Flutter)"
+            android:textSize="14sp"
+            android:layout_marginHorizontal="16dp"
+            android:layout_marginVertical="8dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <View
+            android:background="#f5f5f5"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"/>
+
+        <com.google.android.material.textview.MaterialTextView
+            android:text="Web Developer (Codeigniter/PHP)"
+            android:textSize="14sp"
+            android:layout_marginHorizontal="16dp"
+            android:layout_marginVertical="8dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <View
+            android:background="#f5f5f5"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"/>
+
+        <com.google.android.material.textview.MaterialTextView
+            android:text="Backend Developer (Codeigniter/PHP/Golang)"
+            android:textSize="14sp"
+            android:layout_marginHorizontal="16dp"
+            android:layout_marginVertical="8dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <com.google.android.material.textview.MaterialTextView
+            android:text="Pengalaman Kerja"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingHorizontal="16dp"
+            android:paddingVertical="8dp"
+            android:background="#F2F2F2"
+            android:textSize="16sp"
+            android:textStyle="bold"/>
+
+        <com.google.android.material.textview.MaterialTextView
+            android:text="PT Lentera Benderang Bangsa (Binar Academy) - Project Livin by Mandiri at Bank Mandiri sebagai Android Developer 11 Oktober 2021 - 11 Oktober 2022"
+            android:textSize="14sp"
+            android:layout_marginHorizontal="16dp"
+            android:layout_marginVertical="8dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <View
+            android:background="#f5f5f5"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"/>
+
+        <com.google.android.material.textview.MaterialTextView
+            android:text="Dinas Cipta Karya, Tata Ruang dan Pertanahan Provinsi DKI Jakarta sebagai Mobile Apps Developer Januari - Desember 2021"
+            android:textSize="14sp"
+            android:layout_marginHorizontal="16dp"
+            android:layout_marginVertical="8dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <View
+            android:background="#f5f5f5"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"/>
+
+        <com.google.android.material.textview.MaterialTextView
+            android:text="PT Klik Digital Sinergi sebagai Frontend Developer Februari 2020 - Oktober 2021"
+            android:textSize="14sp"
+            android:layout_marginHorizontal="16dp"
+            android:layout_marginVertical="8dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <View
+            android:background="#f5f5f5"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"/>
+
+        <com.google.android.material.textview.MaterialTextView
+            android:text="PT 107 sebagai Programmer Maret 2019 - Desember 2019"
+            android:textSize="14sp"
+            android:layout_marginHorizontal="16dp"
+            android:layout_marginVertical="8dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:weightSum="3"
+            android:layout_marginHorizontal="16dp"
+            android:layout_marginVertical="8dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/instagram"
+                android:layout_margin="8dp"
+                android:layout_weight="1"
+                android:src="@drawable/instagram"
+                android:layout_width="0dp"
+                android:layout_height="60dp"/>
+
+            <ImageView
+                android:id="@+id/linkedin"
+                android:layout_margin="8dp"
+                android:layout_weight="1"
+                android:src="@drawable/linkedin"
+                android:layout_width="0dp"
+                android:layout_height="60dp"/>
+
+            <ImageView
+                android:id="@+id/github"
+                android:layout_margin="8dp"
+                android:layout_weight="1"
+                android:src="@drawable/github"
+                android:layout_width="0dp"
+                android:layout_height="60dp"/>
+
+        </LinearLayout>
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+</androidx.core.widget.NestedScrollView>
